@@ -1,2 +1,0 @@
-# deepseek-harness
-deepseek-harness

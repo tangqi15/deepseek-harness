@@ -1,0 +1,7 @@
+- id: llm-deepseek
+  config:
+    protocol: chat-completions
+
+- insert:
+    - id: hello
+      name: '/Users/ai/deepseek-ai/deepseek-harness/scratch-plugin/src/my-plugin.ts'
